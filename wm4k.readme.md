@@ -1,3 +1,5 @@
+https://gist.github.com/naikrovek/b13a77d169de0e192bcf48fec02bc21f
+
 `start AutoHotKeyu64.exe wm4k.ahd` should launch it.  both of the files in this gist should be in the same directory.
 
 with NUMLOCK off, pushing number keys will move windows around.  `8` will resize a window to fit 1/8th of your screen (1/4 width, 1/2 height.)
