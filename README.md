@@ -8,6 +8,9 @@
 
 ## 通过热键改变窗口的大小和位置
 
+https://github.com/jnoynaert/window-mover
+
+
 ## 在不同的显示器间移动窗口
 
 ## 其他的一些常用操作
